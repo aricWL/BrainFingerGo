@@ -1,4 +1,4 @@
-# Brain, Finger, Go! https://www.bitballoon.com/sites/governor-whale-54657
+# Brain, Finger, Go! http://governor-whale-54657.bitballoon.com/
 
 Your job is to get the highest score possible in 30 seconds!
 
