@@ -1,6 +1,6 @@
-# Shapes Speed Game
+# Brain, Finger, Go! https://www.bitballoon.com/sites/governor-whale-54657
 
-Your job is to implement a game that tests your speed and accuracy!
+Your job is to get the highest score possible in 30 seconds!
 
 The game presents one of 4 shapes to you.  You must press the correct arrow key for the shape and color.  The correct keys are as follows:
 
@@ -13,8 +13,3 @@ If you press the wrong arrow for a shape, your score will be subtracted by 1 poi
 
 The goal of the game is to get the most points in 30 seconds.
 
-Here is a demo of the game:
-
-![Shapes game](canvasShapesGame.gif)
-
-You have starter code in this directory.  The html and css are setup for you.  There are also some suggested functions in the `index.js` file.  You can add your own functions or rewrite anything in this file.  The function names are just a suggestion.
